@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things 🤣
 - 🔭 I’m currently working on something really cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me anything [here](https://www.instagram.com/furkankacaoov/) related to <b>Windows Forms, Javascript, Swift Unity.</b>
+- 💬 Ask me anything [here](https://www.instagram.com/furkankacaoov/) related to <b>Windows Forms, Javascript, Unity.</b>
 - ⚡ Fun fact: I ❤️ & 🏍️
 - My Dicord swain#7540
 
