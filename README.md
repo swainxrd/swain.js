@@ -1,38 +1,23 @@
-### Hi there, I'm a Student My Name is Swain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<h2 align="center">swain</h2>
 
-This is the place where I opensource stuff and break things 🤣
+<h3>My Personal accounts:</h3>
+<p align="left">
+<a href="https://discord.com/users/702108475253194865" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+</a>
+<a href="https://github.com/swainxrd" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  </br><img src="https://komarev.com/ghpvc/?username=phiec1337&color=dc143c"/>
+</p>
 
-- 🔭 I’m currently working on something really cool 😉
-- 🌱 I’m currently learning everything 🤣
-- 👨‍💻 I’m looking to collaborate on more open source projects.
-- 💬 Ask me anything [here](https://www.instagram.com/furkankacaoov/) related to <b>Javascript & Unity.</b>
-- 💻 My Discord swain#7540
+## Langauges I Know:
 
-### Connect with me:
-
-[<img align="left" alt="lefearr | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="lefearr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-<br />
-
-### Languages and Tools:
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
-
- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<br />
-
-### 📊 GitHub Stats:
-![LeFearr's github stats](https://github-readme-stats.vercel.app/api?username=swainxrd&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swainxrd&layout=compact)
-
-
-[instagram]: https://www.instagram.com/furkankacaoov/
-[github]: https://github.com/swainxrd
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/d11bc5fc022603363226da69441297bc1f6dda6cd6253d80f5ed010125810aad/68747470733a2f2f692e696d6775722e636f6d2f534931445a66332e706e67"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+</br>
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=phiec1337&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phiec1337&layout=compact&theme=dark&hide_border=true" />
